@@ -1,13 +1,14 @@
 import React from "react";
 import cars from "../cars.json";
+// Import {useParams} from "react-router-dom" here //
 import { useParams } from "react-router-dom";
 
+// import MUI components here //
+// Container, Paper, Chip //
 import Box from "@mui/material/Box";
 import Paper from "@mui/material/Paper";
-
 import CssBaseline from "@mui/material/CssBaseline";
 import Container from "@mui/material/Container";
-
 import Chip from "@mui/material/Chip";
 import Stack from "@mui/material/Stack";
 

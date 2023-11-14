@@ -27,5 +27,4 @@ const Router = () => {
   );
 };
 
-//Don't forget to export your newly create Router component
 export default Router;
